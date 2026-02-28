@@ -1,6 +1,59 @@
 ## Hi there 👋
 
-<!--
+<h1 align="center">Hi 👋, I'm Prashant Malagi</h1>
+<h3 align="center">🚀 Java Developer | 🌐 Web Developer | 🤖 ML Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+React;Machine+Learning+Explorer;Building+Real+World+Projects" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Passionate about Software Development  
+- 💻 Building Java & Full Stack Applications  
+- 🌱 Learning Machine Learning & AI  
+- 🚀 Interested in solving real-world problems  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="www.linkedin.com/in/prashant-malagi-444221326">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="prashantmalagi60@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,react,html,mysql,python,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prashanthmalagi&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthmalagi&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthmalagi&layout=compact&theme=tokyonight" />
+</p><!--
 **prashantmalagi/prashantmalagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
