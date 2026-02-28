@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prashanthmalagi&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthmalagi&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=prashantmalagi&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantmalagi&theme=tokyonight" />
 </p>
 
 ---
