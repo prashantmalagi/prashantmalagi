@@ -52,7 +52,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthmalagi&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmalagi&layout=compact&theme=tokyonight" />
 </p><!--
 **prashantmalagi/prashantmalagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
