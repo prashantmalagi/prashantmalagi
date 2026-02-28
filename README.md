@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Prashant Malagi</h1>
 <h3 align="center">🚀 Java Developer | 🌐 Web Developer | 🤖 ML Enthusiast</h3>
 
