@@ -20,11 +20,11 @@
 
 <p align="left">
 <a href="www.linkedin.com/in/prashant-malagi-444221326">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="prashantmalagi60@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
