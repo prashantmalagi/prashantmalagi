@@ -19,7 +19,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/prashant-malagi-444221326">
+<a href="linkedin.com/in/prashant-malagi-444221326">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
