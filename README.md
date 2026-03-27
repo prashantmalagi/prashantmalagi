@@ -7,41 +7,43 @@
 
 ---
 
-## 👨‍💻 About Me
+---
 
-- 🎓 Passionate about Software Development  
-- 💻 Building Java & Full Stack Applications  
-- 🌱 Learning Machine Learning & AI  
-- 🚀 Interested in solving real-world problems  
+## 🧑‍💻 About Me
+
+* 🌱 Currently learning **Java, DSA, Spring Boot**
+* 💡 Interested in **AI + Web Development**
+* 🎯 Goal: Become a **Full Stack Developer**
+* 📫 Reach me: **[prashantmalagi60@gmail.com](mailto:prashantmalagi60@gmail.com)**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="linkedin.com/in/prashant-malagi-444221326">
+<a href="https://linkedin.com/in/prashant-malagi-444221326" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="prashantmalagi60@gmail.com">
+<a href="mailto:prashantmalagi60@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,react,html,mysql,python,git,github" />
-</p>
+## 🛠️ Languages and Tools
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prashantmalagi&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantmalagi&theme=tokyonight" />
-</p>
+---
 
+## 📌 Top Languages
+
+---
+
+## ⚡ Fun Fact
+
+I turn ☕ into code and ideas into reality 🚀
