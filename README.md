@@ -34,15 +34,24 @@
 
 ## 🛠️ Languages and Tools
 
----
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,mysql,git,github,vscode" />
+</p>
+
 
 ## 📊 GitHub Stats
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prashantmalagi&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantmalagi&theme=tokyonight" />
+</p>
+
 
 ## 📌 Top Languages
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantmalagi&layout=compact&theme=tokyonight" />
+</p>
 
 ## ⚡ Fun Fact
 
