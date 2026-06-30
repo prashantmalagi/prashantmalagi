@@ -47,8 +47,6 @@
 </p>
 
 
-
-
 ## ⚡ Fun Fact
 
 I turn ☕ into code and ideas into reality 🚀
